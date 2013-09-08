@@ -1,0 +1,7 @@
+Macam-macam git dan fungsinya
+
+Git Add	:	Menambahkan isi file ke indeks
+Git Commit	:	Merekam perubahan ke repositori
+Git Push	:	Memperbaruhi ref terpencil bersama dengan benda-benda terkait
+Git Diff	:	Menampilkan perubahan antara komit, melakukan dan phon kerja, dll
+Git Reset	:	Mengatur ulang kepala saat ke keadaan tertentu
